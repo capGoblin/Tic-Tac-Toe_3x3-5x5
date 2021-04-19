@@ -4,7 +4,7 @@
 * Each Grid will have Multiplayer and Singleplayer. In which Computer will chose Random places across the Board.
 * In 5x5 Grid, Each player is given Two chances Per Turn to make it quite Interesting🥱.
 
-**** Thank You for Reading this Crapp README🙏...
+** Thank You for Reading this Crapp README🙏...**
 
 
 
