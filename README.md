@@ -4,7 +4,7 @@
 * The code in this Branch is Object-oriented programming (OOP) paradigm.
 * Each Grid will have Multiplayer and Singleplayer. In Singleplayer, Computer will chose Random places across the Board.
 * In 5x5 Grid, Each player is given Two chances Per Turn to make it quite Interesting🥱.
-###### Thank You for Reading this Crapp README🙏...
+###### Thank You for Reading this Crapp README🙏.
 
 
 
